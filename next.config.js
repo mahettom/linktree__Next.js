@@ -8,6 +8,15 @@ const nextConfig = {
             {
                 hostname: 'nextjs.org',
             },
+            {
+                hostname: 'github.githubassets.com',
+            },
+            {
+                hostname: 'logowik.com',
+            },
+            {
+                hostname: 'img.freepik.com',
+            }
         ],
     },
 }
