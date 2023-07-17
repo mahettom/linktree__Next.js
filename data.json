@@ -5,24 +5,24 @@
     "links": [
         {
             "Title": "Lee Rob site",
-            "url": "https://leerob.io",
+            "href": "https://leerob.io",
             "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
         },
         {
             "title": "Vercel site",
-            "url": "https://vercel.com",
+            "href": "https://vercel.com",
             "image": "https://logowik.com/content/uploads/images/vercel1868.jpg"
         }
     ],
     "socials": [
         {
             "Title": "Twitter",
-            "url": "https://twitter.com/leerob",
+            "href": "https://twitter.com/leerob",
             "image": "https://img.freepik.com/premium-vector/social-media-icon-illustration-twitter-twitter-icon-vector-illustration_561158-2027.jpg"
         },
         {
             "title": "Github",
-            "url": "https://github.com/leerob",
+            "href": "https://github.com/leerob",
             "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
         }
     ]
