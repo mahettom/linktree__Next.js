@@ -1,4 +1,15 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
+
+// ——————————————————————————————————————————— Optimize Image from this location (hostname) —————————————
+
+const nextConfig = {
+    images: {
+        remotePatterns: [
+            {
+                hostname: 'nextjs.org',
+            },
+        ],
+    },
+}
 
 module.exports = nextConfig
