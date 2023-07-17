@@ -8,7 +8,7 @@ export default function Document() {
 
         <Html>
             <Head />
-            <body>
+            <body className="bg-gradient-to-t from-gray-900 to-gray-600">
 
                 <Main />
                 <NextScript />

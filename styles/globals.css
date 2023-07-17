@@ -15,3 +15,12 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
+
+html {
+  min-height: 100%;
+}
+
+body {
+  background-repeat: no-repeat;
+  color: linear-gradient(to right, rgb(17, 24, 39), rgb(75, 85, 99));
+}
