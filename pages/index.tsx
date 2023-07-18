@@ -1,6 +1,7 @@
 import Image from "next/image";
 import data from "../data.json";
 
+// ——————————————————————————————————————————————————————————————— TWITTER ICON SVG
 function TwitterIcon() {
   return (
     <svg
@@ -25,6 +26,7 @@ function TwitterIcon() {
   );
 }
 
+// ——————————————————————————————————————————————————————————————— GITHUB ICON SVG
 function GitHubIcon() {
   return (
     <svg
@@ -48,6 +50,8 @@ function GitHubIcon() {
     </svg>
   );
 }
+
+// —————————————————————————————————————————————————————————————— CARD THAT DISPLAY ALL THE LINKS
 
 function LinkCard({
   href,
@@ -80,9 +84,11 @@ function LinkCard({
   );
 }
 
+// ———————————————————————————————————————————————————————————————— MAIN COMPONENT
 export default function Home() {
   return (
     <div className="flex flex-col items-center mx-auto w-full mt-16 px-14">
+
       <Image
         className="rounded-full"
         src={data.avatar}
@@ -90,7 +96,9 @@ export default function Home() {
         height={96}
         alt={data.name}
       />
+
       <h1 className="font-bold mt-4 mb-8 text-xl">{data.name}</h1>
+
       {data.links.map((link) => (
         <LinkCard key={link.href} {...link} />
       ))}

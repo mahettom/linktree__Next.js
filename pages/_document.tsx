@@ -1,12 +1,13 @@
 import { Html, Head, Main, NextScript } from "next/document";
 
 
-export default function Document() {
+// ——————————————————————————————————————————————————————————  DEFINE THE OVERALL STRUCTURE OF MY DOCUMENT
 
+export default function Document() {
 
     return (
 
-        <Html>
+        <Html lang="en">
             <Head />
             <body className="bg-gradient-to-t from-gray-900 to-gray-600">
 
