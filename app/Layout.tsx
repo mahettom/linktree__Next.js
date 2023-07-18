@@ -1,3 +1,6 @@
+import '../styles/globals.css'
+
+
 export default function RootLayout({
     children,
 }: {
@@ -10,4 +13,6 @@ export default function RootLayout({
     )
 }
 
-  // ——————————————————————————————————— This layout will applied to all routes inside the app folder
+  // ——— This layout will applied to all routes inside the app folder
+  // ——— Replace _app & _document when using pages structures
+  // ——— But in a much cleaner way
