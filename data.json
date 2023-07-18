@@ -12,6 +12,11 @@
             "title": "Vercel site",
             "href": "https://vercel.com",
             "image": "https://logowik.com/content/uploads/images/vercel1868.jpg"
+        },
+        {
+            "title": "Next.js",
+            "href": "https://nextjs.org",
+            "image": "https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png"
         }
     ],
     "socials": [
