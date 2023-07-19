@@ -15,8 +15,8 @@
 
 > A lot of things to do before but I plan after to:
 
-- [] Add my informations to redirect guest to my socials
-- [] Deploy app on Vercel
+- [ ] Add my informations to redirect guest to my socials
+- [ ] Deploy app on Vercel
 
 ### Source
 
