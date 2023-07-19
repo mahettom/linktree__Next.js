@@ -6,13 +6,13 @@ const nextConfig = {
     images: {
         remotePatterns: [
             {
-                hostname: 'nextjs.org',
+                hostname: 'media.licdn.com',
             },
             {
-                hostname: 'github.githubassets.com',
+                hostname: 's2.qwant.com',
             },
             {
-                hostname: 'logowik.com',
+                hostname: 'pngimg.com',
             },
             {
                 hostname: 'img.freepik.com',
