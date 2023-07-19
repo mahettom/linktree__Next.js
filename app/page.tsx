@@ -104,15 +104,24 @@ export default function Home() {
       ))}
 
       <div className="flex gap-4 mt-4">
-        {data.socials.map((link) => {
 
-          if (link.href.includes('twitter')) {
-            return <TwitterIcon key={link.href} />
-          }
-          if (link.href.includes('github')) {
-            return <GitHubIcon key={link.href} />
-          }
-        })}
+        {data.socials.map((link) => (
+
+          <a
+            aria-label={`${link.title} link`}
+            key={link.href}
+            href={link.href}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {link.href.includes('twitter') ? (
+              <TwitterIcon />
+            ) : link.href.includes('github') ? (
+              <GitHubIcon />
+            ) : null}
+          </a>
+
+        ))}
       </div>
 
     </div>
