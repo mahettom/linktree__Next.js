@@ -1,34 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Linktree
 
-## Getting Started
+### Objectives
 
-First, run the development server:
+> First
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- Discover Next.js from the precedent version to understand from where it evolved.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+> Second
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Then update it to the new version.
+- from folder pages to -> app with the new structure.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Improvements
 
-## Learn More
+> A lot of things to do before but I plan after to:
 
-To learn more about Next.js, take a look at the following resources:
+- [] Add my informations to redirect guest to my socials
+- [] Deploy app on Vercel
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Source
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- I find the youtube channel of Lee Robinson really helpful for a beginner like me as he goes through the difference between the previous version and now while taking his time and cover also the basics.
