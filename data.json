@@ -1,33 +1,33 @@
 
 {
-    "name": "Lee Robinson",
-    "avatar": "https://nextjs.org/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F35255%2F1665059588-lee.jpg&w=640&q=75&dpl=dpl_89UFqtWLXDyH5LCHGyz4xrpd6ztq",
+    "name": "Tom Mahé",
+    "avatar": "https://media.licdn.com/dms/image/D4E03AQHc1sr_FgMdLA/profile-displayphoto-shrink_400_400/0/1687051861306?e=1695254400&v=beta&t=Ec-fNgI4Nf1-0N7zoo5E5UTPkAcfMfqcZBYiXFTLqkg",
     "links": [
         {
-            "title": "Lee Rob site",
-            "href": "https://leerob.io",
-            "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+            "title": "Linkedin",
+            "href": "https://www.linkedin.com/in/tommahe-webdev/",
+            "image": "https://s2.qwant.com/thumbr/0x380/e/6/10e4b3fd82fd669c99ae91944588d969745d899adc32ce4b2a82a5e86b7bd3/img_45506.png?u=https%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_45506.png&q=0&b=1&p=0&a=0"
         },
         {
-            "title": "Vercel site",
-            "href": "https://vercel.com",
-            "image": "https://logowik.com/content/uploads/images/vercel1868.jpg"
+            "title": "Github",
+            "href": "https://github.com/mahettom",
+            "image": "https://pngimg.com/uploads/github/github_PNG40.png"
         },
         {
-            "title": "Next.js",
-            "href": "https://nextjs.org",
-            "image": "https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png"
+            "title": "Formation",
+            "href": "https://www.ironhack.com/fr/en/paris",
+            "image": "https://s2.qwant.com/thumbr/400x400/f/d/e730d29782477cc641b6a9a39c00d125e42164a545fbf400d1b4245fcd7e6a/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.vbS64PIxnK633J_Dwh1BIAAAAA%26pid%3DApi&q=0&b=1&p=0&a=0"
         }
     ],
     "socials": [
         {
             "title": "Twitter",
-            "href": "https://twitter.com/leerob",
+            "href": "don't have twitter",
             "image": "https://img.freepik.com/premium-vector/social-media-icon-illustration-twitter-twitter-icon-vector-illustration_561158-2027.jpg"
         },
         {
             "title": "Github",
-            "href": "https://github.com/leerob",
+            "href": "https://github.com/mahettom",
             "image": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
         }
     ]
