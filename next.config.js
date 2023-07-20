@@ -3,6 +3,9 @@
 // ——————————————————————————————————————————— Optimize Image from this location (hostname) —————————————
 
 const nextConfig = {
+    experimental: {
+        appDir: true,
+    },
     images: {
         remotePatterns: [
             {
