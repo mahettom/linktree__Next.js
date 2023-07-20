@@ -13,10 +13,10 @@
 
 ### Improvements
 
-> A lot of things to do before but I plan after to:
+> I plan after to:
 
 - [x] Add my informations
-- [ ] Deploy app on Vercel
+- [ ] Deploy app on Vercel || Issue: https://github.com/mahettom/linktree__Next.js/issues/1#issue-1813770443
 
 ### Source
 
